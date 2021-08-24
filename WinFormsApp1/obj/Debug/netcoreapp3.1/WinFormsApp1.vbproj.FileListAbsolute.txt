@@ -1,0 +1,6 @@
+C:\Users\Mohamed Mmdouh\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\Mohamed Mmdouh\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+C:\Users\Mohamed Mmdouh\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\Mohamed Mmdouh\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Mohamed Mmdouh\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.vb
+C:\Users\Mohamed Mmdouh\Source\Repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.vbproj.CoreCompileInputs.cache

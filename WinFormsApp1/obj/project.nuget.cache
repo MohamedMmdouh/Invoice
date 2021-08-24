@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sfmYYWX6mBnJkqe3Q6Z12MzJjGrJdVYECoWrdubozmn+VssR/Td4jQ8qBf/AyuSc0+Lf+J3yaU5RBK7HSdfjBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mohamed Mmdouh\\Source\\Repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohamed Mmdouh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Mohamed Mmdouh\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
